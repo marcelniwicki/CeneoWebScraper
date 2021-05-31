@@ -1,0 +1,172 @@
+{
+    "product_id": "105046072",
+    "product_name": null,
+    "opinions": [
+        {
+            "opinion_id": "14328121",
+            "author": "t...u",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Polecam",
+            "pros": [
+                "czas pracy na baterii",
+                "funkcjonalność",
+                "łatwość obsługi",
+                "wygląd"
+            ],
+            "cons": [],
+            "purchased": true,
+            "submit_date": "2021-04-21 09:34:10",
+            "purchase_date": "2021-04-01 08:02:06",
+            "useful": 1,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14529270",
+            "author": "Użytkownik Ceneo",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Telefon spełnia moje oczekiwania, szybko działa, ma dużo pamięci i jest bardzo dobrze spasowany i ma kształt, który dobrze leży w dłoni, bateria jak na tak duży telefon starcza na cały dzień użytkowania.",
+            "pros": [
+                "funkcjonalność"
+            ],
+            "cons": [],
+            "purchased": false,
+            "submit_date": "2021-05-28 12:25:42",
+            "purchase_date": null,
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14361407",
+            "author": "Użytkownik Ceneo",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Jestem bardzo zadowolona! Polecam bo za tą cenę naprawdę warto. Aparat robi bardzo ładnie zdjęcia w świetle dziennym oraz świetle sztucznym.",
+            "pros": [
+                "czas pracy na baterii",
+                "funkcjonalność",
+                "łatwość obsługi",
+                "wygląd"
+            ],
+            "cons": [],
+            "purchased": false,
+            "submit_date": "2021-04-26 22:38:32",
+            "purchase_date": null,
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14504745",
+            "author": "Użytkownik Ceneo",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Niespotykany stosunek jakości do ceny - jestem bardzo zadowolony z zakupu, super kolor i design",
+            "pros": [
+                "czas pracy na baterii",
+                "wygląd"
+            ],
+            "cons": [],
+            "purchased": false,
+            "submit_date": "2021-05-24 17:23:54",
+            "purchase_date": null,
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14533575",
+            "author": "Użytkownik Ceneo",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "aparat w nocy bez największego problemu daje radę, polecam",
+            "pros": [
+                "funkcjonalność",
+                "łatwość obsługi",
+                "wygląd"
+            ],
+            "cons": [],
+            "purchased": false,
+            "submit_date": "2021-05-29 11:34:45",
+            "purchase_date": null,
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14354421",
+            "author": "S...s",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Świetny telefon w stosunku cena = jakość. W swojej kategorii cenowej z pewnością w czołówce, smartfon śliczny wizualnie. Posiada najważniejsze nowości 5G +90hz ekran na którym praca to mega przyjemność. Polecam!",
+            "pros": [],
+            "cons": [],
+            "purchased": false,
+            "submit_date": "2021-04-25 14:22:17",
+            "purchase_date": null,
+            "useful": 1,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14504752",
+            "author": "Użytkownik Ceneo",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "bardzo szybki telefon za rozsądne pieniądze, super jakość zdjęć i video",
+            "pros": [],
+            "cons": [],
+            "purchased": false,
+            "submit_date": "2021-05-24 17:25:50",
+            "purchase_date": null,
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14534010",
+            "author": "Użytkownik Ceneo",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Bardzo fajny. Bateria i aparat pierwsza klasa.",
+            "pros": [
+                "funkcjonalność"
+            ],
+            "cons": [],
+            "purchased": false,
+            "submit_date": "2021-05-29 15:19:53",
+            "purchase_date": null,
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14501857",
+            "author": "Użytkownik Ceneo",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "osobiście uważam, że to TOP!",
+            "pros": [
+                "funkcjonalność",
+                "wygląd"
+            ],
+            "cons": [],
+            "purchased": false,
+            "submit_date": "2021-05-23 21:36:51",
+            "purchase_date": null,
+            "useful": 0,
+            "useless": 0
+        },
+        {
+            "opinion_id": "14533996",
+            "author": "Użytkownik Ceneo",
+            "recommendation": true,
+            "stars": 5.0,
+            "content": "Produkt godny polecenia",
+            "pros": [
+                "funkcjonalność"
+            ],
+            "cons": [],
+            "purchased": false,
+            "submit_date": "2021-05-29 15:12:47",
+            "purchase_date": null,
+            "useful": 0,
+            "useless": 0
+        }
+    ]
+}
